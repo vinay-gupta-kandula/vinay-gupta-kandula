@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/main/assets/banner.svg" alt="K. Vinay Gupta Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/main/assets/banner.svg" alt="Kandula Vinay Gupta Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -117,7 +117,9 @@
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
+
+
 
 ---
