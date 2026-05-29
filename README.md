@@ -129,7 +129,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=5000&pause=2000&color=29B5E8&center=true&vCenter=true&width=800&lines=%22Data+are+just+summaries+of+thousands+of+stories.%22+-+Chip+Heath" alt="Data Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=5000&pause=2000&color=f500f5&center=true&vCenter=true&width=800&lines=%22Data+are+just+summaries+of+thousands+of+stories.%22+-+Chip+Heath" alt="Data Quote" />
 </p>
 
 
