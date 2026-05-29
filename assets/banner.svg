@@ -147,7 +147,7 @@
     <!-- Glowing Shadow Layer -->
     <text x="0" y="0" class="title-text" filter="url(#neonGlow)" opacity="0.3" fill="#38BDF8">K. VINAY GUPTA</text>
     <!-- Sharp Vector Layer -->
-    <text x="0" y="0" class="title-text">K. VINAY GUPTA</text>
+    <text x="0" y="0" class="title-text">KANDULA VINAY GUPTA</text>
     <!-- Subtitle Data Science Vibe -->
     <text x="4" y="32" class="subtitle-text">DATA SCIENCE • DATA ANALYTICS</text>
   </g>
