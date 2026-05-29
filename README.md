@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist+%26+ML+Engineer;Full-Stack+Systems+Architect;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast"/>
+</p>
 
-<!--
-**vinay-gupta-kandula/vinay-gupta-kandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=vinay-gupta-kandula&icon=1&color=12" alt="Profile Views"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About My Data Journey
+
+<img align="right" alt="Data Analytics GIF" width="350" src="https://media.giphy.com/media/L8K62iDadw1EQ/giphy.gif"/>
+
+```json
+{
+  "name": "Kandula Vinay Gupta",
+  "role": "Data Scientist | Data Analyst",
+  "currently_working_on": "Advanced data science predictive modeling",
+  "currently_learning": "Advanced LLM optimization and hyperparameter tuning",
+  "contact": "kvinaygupta4242@gmail.com"
+}
