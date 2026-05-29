@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast;BTech+CSE+Student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=29B5E&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast;BTech+CSE+Student"/>
 </p>
 
 <p align="center">
@@ -14,14 +14,26 @@
 
 ---
 
+
+
 ## 🌐 Connect With Me:
-<p align="left">
-  <a href="https://portfolio-vinay-gupta-k.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-29B5E8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vinay-gupta-kandula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:kvinaygupta4242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
+<p align="center">
+  <a href="https://portfolio-vinay-gupta-k.vercel.app/">
+    <img src="https://img.shields.io/badge/My_Portfolio-29B5E8?style=for-the-badge&logo=opsgenie&logoColor=white" height="80" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vinay-gupta-kandula/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="80" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kvinaygupta4242@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="80" alt="email">
+  </a>
 </p>
+
+
+
+
 
 ---
 
@@ -117,7 +129,7 @@
 
 ---
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=5000&pause=2000&color=29B5E8&center=true&vCenter=true&width=800&lines=%22Data+are+just+summaries+of+thousands+of+stories.%22+-+Chip+Heath" alt="Data Quote" />
 </p>
 
 
