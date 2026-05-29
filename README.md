@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast;BTech+CS+Student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast;BTech+CSE+Student"/>
 </p>
 
 <p align="center">
@@ -18,30 +18,32 @@
 <p align="left">
   <a href="https://portfolio-vinay-gupta-k.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-29B5E8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/vinay-gupta-kandula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vinay-gupta-kandula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:kvinaygupta4242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"></a>
+  <a href="mailto:kvinaygupta4242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About My Data Journey
 
-<img align="right" alt="Data Science Dashboard Analysis" width="380" src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-generator/master/public/images/data-science.gif"/>
+<img align="right" alt="Data Science Project Analytics Dashboard" width="250" style="border-radius: 20px; margin-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdqOWZxeW11azl4a3RjOWtxdHFieWQ1czNmODhibWpxcTZ0cHFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
 ```json
 {
   "name": "Kandula Vinay Gupta",
   "status": "BTech Computer Science Student",
   "focus": "Data Science | Data Analytics",
-  "currently_working_on": "A data science project",
-  "currently_learning": "Advanced LLM optimization and hyperparameter tuning",
+  "currently_working_on": "Some data science projects",
+  "ai_integration": "Working with AI models in my projects",
   "contact": "kvinaygupta4242@gmail.com"
 }
 ```
 
 
 
+
+---
 
 ## ⚙️ The Engineering Engine (Tech Stack)
 
@@ -98,8 +100,6 @@
 ## 📈 Analytics & Activity Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vinay-gupta-kandula&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" height="190"/>
-  &nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinay-gupta-kandula&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="190"/>
 </p>
 
@@ -112,8 +112,12 @@
 ## 🐍 Contribution Data Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/output/github-snake-dark-violet-green.svg" alt="Contribution data flow animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/output/github-snake-dark.svg" alt="Contribution data flow animation" width="100%"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
