@@ -145,7 +145,7 @@
   <!-- Main Central Brand Headers -->
   <g transform="translate(345, 115)">
     <!-- Glowing Shadow Layer -->
-    <text x="0" y="0" class="title-text" filter="url(#neonGlow)" opacity="0.3" fill="#38BDF8">K. VINAY GUPTA</text>
+    <text x="0" y="0" class="title-text" filter="url(#neonGlow)" opacity="0.3" fill="#38BDF8">KANDULA VINAY GUPTA</text>
     <!-- Sharp Vector Layer -->
     <text x="0" y="0" class="title-text">KANDULA VINAY GUPTA</text>
     <!-- Subtitle Data Science Vibe -->
