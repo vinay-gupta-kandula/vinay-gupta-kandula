@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist+%26+ML+Engineer;Full-Stack+Systems+Architect;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=BTech+CS+Student;Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast"/>
 </p>
 
 <p align="center">
