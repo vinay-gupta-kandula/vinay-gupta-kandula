@@ -27,9 +27,9 @@
 
 ## 👨‍💻 About My Data Journey
 
-<img align="right" alt="Data Analytics GIF" width="350" src="https://media.giphy.com/media/L8K62iDadw1EQ/giphy.gif"/>
+<img align="right" alt="Data Science Dashboard Analysis" width="380" src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-generator/master/public/images/data-science.gif"/>
 
-
+```json
 {
   "name": "Kandula Vinay Gupta",
   "status": "BTech Computer Science Student",
@@ -38,9 +38,10 @@
   "currently_learning": "Advanced LLM optimization and hyperparameter tuning",
   "contact": "kvinaygupta4242@gmail.com"
 }
+```
 
 
----
+
 
 ## ⚙️ The Engineering Engine (Tech Stack)
 
@@ -106,16 +107,13 @@
   <img src="https://streak-stats.demolab.com/?user=vinay-gupta-kandula&theme=one_dark_pro&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vinay-gupta-kandula&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" />
-</p>
-
 ---
 
 ## 🐍 Contribution Data Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/output/github-snake-dark.svg" alt="Contribution data flow animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/output/github-snake-dark-violet-green.svg" alt="Contribution data flow animation" width="100%"/>
 </p>
+
 
 ---
