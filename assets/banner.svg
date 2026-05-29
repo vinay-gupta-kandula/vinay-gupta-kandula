@@ -143,7 +143,7 @@
   </g>
 
   <!-- Main Central Brand Headers -->
-  <g transform="translate(345, 115)">
+  <g transform="translate(335, 115)">
     <!-- Glowing Shadow Layer -->
     <text x="0" y="0" class="title-text" filter="url(#neonGlow)" opacity="0.3" fill="#38BDF8">KANDULA VINAY GUPTA</text>
     <!-- Sharp Vector Layer -->
