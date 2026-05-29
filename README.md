@@ -1,10 +1,14 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/main/assets/banner.svg" alt="K. Vinay Gupta Banner" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast;BTech+CS+Student"/>
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=vinay-gupta-kandula&icon=2&color=12" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=vinay-gupta-kandula&icon=2&color=blue" alt="Profile Views"/>
   </a>
 </p>
 
@@ -12,6 +16,8 @@
 
 ## 🌐 Connect With Me:
 <p align="left">
+  <a href="https://portfolio-vinay-gupta-k.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-29B5E8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/vinay-gupta-kandula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:kvinaygupta4242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"></a>
@@ -23,7 +29,7 @@
 
 <img align="right" alt="Data Analytics GIF" width="350" src="https://media.giphy.com/media/L8K62iDadw1EQ/giphy.gif"/>
 
-```json
+
 {
   "name": "Kandula Vinay Gupta",
   "status": "BTech Computer Science Student",
@@ -32,8 +38,7 @@
   "currently_learning": "Advanced LLM optimization and hyperparameter tuning",
   "contact": "kvinaygupta4242@gmail.com"
 }
-```
-<br clear="right"/>
+
 
 ---
 
@@ -107,13 +112,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Data Flow
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinay-gupta-kandula&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/output/github-snake-dark.svg" alt="Contribution data flow animation" width="100%"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
