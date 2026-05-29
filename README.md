@@ -1,11 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=BTech+CS+Student;Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=false&width=800&lines=Data+Scientist;Data+Analyst;Building+Predictive+Models;Cloud+Infrastructure+Enthusiast;BTech+CS+Student"/>
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=vinay-gupta-kandula&icon=1&color=12" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=vinay-gupta-kandula&icon=2&color=12" alt="Profile Views"/>
   </a>
+</p>
+
+---
+
+## 🌐 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinay-gupta-kandula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:kvinaygupta4242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
 ---
@@ -14,13 +23,19 @@
 
 <img align="right" alt="Data Analytics GIF" width="350" src="https://media.giphy.com/media/L8K62iDadw1EQ/giphy.gif"/>
 
+```json
 {
   "name": "Kandula Vinay Gupta",
-  "role": "Data Scientist | Data Analyst",
-  "currently_working_on": "Advanced data science predictive modeling",
+  "status": "BTech Computer Science Student",
+  "focus": "Data Science | Data Analytics",
+  "currently_working_on": "A data science project",
   "currently_learning": "Advanced LLM optimization and hyperparameter tuning",
   "contact": "kvinaygupta4242@gmail.com"
 }
+```
+<br clear="right"/>
+
+---
 
 ## ⚙️ The Engineering Engine (Tech Stack)
 
@@ -35,3 +50,70 @@
 
 ### 🎨 Design Tools
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" height="28" />
+
+---
+
+## 🔬 Curated Analytics & Systems Portfolio
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>📊 Core Domain</th>
+      <th>📝 Architecture, Performance & Visual Impact</th>
+      <th>🔧 Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>eCommerce Churn Prediction Framework</strong><br><a href="https://github.com/vinay-gupta-kandula/ecommerce-churn-prediction"><sub>View Repository</sub></a></td>
+      <td>Designed an end-to-end predictive framework integrating hyperparameter cross-validation. Built an interactive Streamlit dashboard displaying dynamic ROC Curves and Feature Importance matrices.</td>
+      <td><code>Python</code> <code>Streamlit</code> <code>Scikit-Learn</code></td>
+    </tr>
+    <tr>
+      <td><strong>AI Sales Anomaly Detector</strong><br><a href="https://github.com/vinay-gupta-kandula/ai-sales-anomaly-detector"><sub>View Repository</sub></a></td>
+      <td>Developed an automated analytics system to ingest raw sales history, execute time-series anomaly screening, and route outlier alerts through advanced LLM agents. Containerized via Docker.</td>
+      <td><code>Ollama</code> <code>Anthropic API</code> <code>Docker</code></td>
+    </tr>
+    <tr>
+      <td><strong>Production LLM LoRA Pipeline</strong><br><a href="https://github.com/vinay-gupta-kandula/production-ready-llm-lora"><sub>View Repository</sub></a></td>
+      <td>Engineered a parameter-efficient fine-tuning platform for language models using Low-Rank Adaptation (LoRA). Includes structured JSON training configs and loss tracking metrics.</td>
+      <td><code>PyTorch</code> <code>LoRA</code> <code>MLops</code></td>
+    </tr>
+    <tr>
+      <td><strong>CertiFlow System</strong><br><a href="https://github.com/vinay-gupta-kandula/certiflow"><sub>View Repository</sub></a></td>
+      <td>Architected a secure document automation ledger and workflow engine focusing on transaction atomicity and enterprise-grade state machine management.</td>
+      <td><code>Node.js</code> <code>Express</code> <code>System Architecture</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📈 Analytics & Activity Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=vinay-gupta-kandula&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" height="190"/>
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinay-gupta-kandula&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vinay-gupta-kandula&theme=one_dark_pro&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vinay-gupta-kandula&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinay-gupta-kandula&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
